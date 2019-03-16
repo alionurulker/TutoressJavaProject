@@ -4,7 +4,7 @@ If you didn't create .txt file about Adverbs, Adjectives, Nouns and Verbs, you c
 
 You can see some console outputs of the program below.
 
-
+<p>
 run:
 1. Instructor entrance
 2. Student entrance
@@ -27,3 +27,4 @@ Would you like another question? ( y , n )
 n
 Would you like to end the Program? ( y , n )
 y
+</p>
