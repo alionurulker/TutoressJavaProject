@@ -1,0 +1,5 @@
+1,Ali Onur .... a project in Java.,has
+2,Ali Onur ..... a file.,create
+3,Ali Onur ...... to him project .jar file.,added
+4,Ali Onur ...... him project.,couln't build
+5,Ali Onur ...... to clean him project.,forgot
