@@ -5,26 +5,26 @@ If you didn't create .txt file about Adverbs, Adjectives, Nouns and Verbs, you c
 You can see some console outputs of the program below.
 
 <p>
-run:
-1. Instructor entrance
-2. Student entrance
-Entrance : 2
-1. Verb sentences
-2. Noun sentences
-3. Adjective sentences
-4. Adverb sentences
-Entrance : 1
-Question : Ali Onur ...... to him project .jar file.
-couln't build
-added
-create
-has
-forgot
-Enter Correct Choise : added
-That's Correct!
-Your Point : 3
-Would you like another question? ( y , n )
-n
-Would you like to end the Program? ( y , n )
-y
-</p>
+run:<br>
+1. Instructor entrance <br>
+2. Student entrance <br>
+Entrance : 2<br>
+1. Verb sentences<br>
+2. Noun sentences<br>
+3. Adjective sentences<br>
+4. Adverb sentences<br>
+Entrance : 1<br>
+Question : Ali Onur ...... to him project .jar file.<br>
+couln't build<br>
+added<br>
+create<br>
+has<br>
+forgot<br>
+Enter Correct Choise : added<br>
+That's Correct!<br>
+Your Point : 3<br>
+Would you like another question? ( y , n )<br>
+n<br>
+Would you like to end the Program? ( y , n )<br>
+y<br>
+</p><br>
